@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.jboss.quickstarts.wfk.hotel.HotelRegistrationTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.51 sec
